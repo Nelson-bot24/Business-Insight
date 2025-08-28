@@ -66,6 +66,6 @@ Note : Target values/Bench mark values were only given for 2022 fiscal year,only
 In this project, we have followed Snowfall data modeling method.
 
 ## Objective :
-     To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
+    To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
 
 👉 Sales View
