@@ -60,3 +60,4 @@ Fact table : It will have the data about the transactions
          Has the details of pre invoice deductions percentage for each cutomer with year
   ## ⚫ Post_invoice_deductions
          Post invoice deductions and other deductions details
+Note : Target values/Bench mark values were only given for 2022 fiscal year,only withrespective market column.
