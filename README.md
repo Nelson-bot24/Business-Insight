@@ -63,3 +63,9 @@ Fact table : It will have the data about the transactions
 Note : Target values/Bench mark values were only given for 2022 fiscal year,only withrespective market column.
 ## Data Model :
 <img width="970" height="683" alt="Screenshot 2025-08-28 145627" src="https://github.com/user-attachments/assets/c8896617-68b6-4611-b8e4-d09c6234c8c0" />
+In this project, we have followed Snowfall data modeling method.
+
+## Objective :
+     To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
+
+👉 Sales View
