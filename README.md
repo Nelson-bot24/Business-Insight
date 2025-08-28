@@ -61,3 +61,4 @@ Fact table : It will have the data about the transactions
   ## ⚫ Post_invoice_deductions
          Post invoice deductions and other deductions details
 Note : Target values/Bench mark values were only given for 2022 fiscal year,only withrespective market column.
+## Data Model :
