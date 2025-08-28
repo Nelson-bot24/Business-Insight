@@ -75,17 +75,17 @@ Decode customer and product performances influenced by Key metrics such as Net S
 👉 Finance View
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-28 150454" src="https://github.com/user-attachments/assets/47f3fec7-2c31-439a-bc36-70ede3bf7689" />
-Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales
+Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales.
 
 👉 Marketing View
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-28 150546" src="https://github.com/user-attachments/assets/55e2b17b-4ce1-4c1f-85f9-b1f4e33bad24" />
-Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses
+Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses.
 
 👉 Supply Chain View
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-28 150607" src="https://github.com/user-attachments/assets/f2cf24bd-41e4-4888-b955-a1b8134076ef" />
-Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
+Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy.
 
 👉 Execution View
 
