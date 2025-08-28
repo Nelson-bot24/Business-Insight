@@ -92,7 +92,7 @@ Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Err
 <img width="1920" height="1080" alt="Screenshot 2025-08-28 150639" src="https://github.com/user-attachments/assets/11058299-c4f2-4f3c-ab15-1612534e2923" />
 Evaluating departmental performance at a glance by plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders to bridge gap between strategy and results by closely monitoring and managing the execution of initiatives.
 
-Interactive Dashoard Link
+## Interactive Dashoard Link-https://app.powerbi.com/view?r=eyJrIjoiODhlZGZmYmItYmYzNy00M2U1LWFkYTYtNDM1MjM5MmQ4NjAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Conclusion :
 The dashboard has equipped AtliQ Hardware with the capability to assess sales trends across different departments and make decisions guided by data. Moreover, a notable/significant trend on consistent rise in Atliq market share, witnessing a substantial growth from its initial share of less than 0.5% to an impressive 5.9%. This encouraging trajectory highlights AtliqQ increasing presence and competitiveness in the market
