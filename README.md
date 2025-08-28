@@ -1,4 +1,4 @@
-# Business-Insight
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150454" src="https://github.com/user-attachments/assets/38cbb21a-a536-4c3e-8a2b-718a7fa9ce1a" /><img width="1920" height="1080" alt="Screenshot 2025-08-28 150454" src="https://github.com/user-attachments/assets/fbd83027-0ae4-4e3d-99c3-1a9b5ba13ef6" /># Business-Insight
 ## Problem Statement :
 AtliQ Hardware, a leading consumer electronics company, operates globally with a diverse customer base, similar to well-known brands like HP and Dell. While AtliQ Hardware has been experiencing rapid growth, it has encountered challenges in the Latin American market. These challenges stem from their reliance on Excel files for data management. Excel, although versatile, presents difficulties in terms of data comprehension, visualization capabilities, and scalability. These limitations have led to significant losses in the Latin American market." To address this, our objective is to implement an advanced analytics solution to enable efficient data analysis and drive informed decision-making.
 ## Data Source Details :
@@ -69,3 +69,24 @@ In this project, we have followed Snowfall data modeling method.
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as Sales, Finance, Marketing, Supply Chain, and Execution.
 
 👉 Sales View
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150523" src="https://github.com/user-attachments/assets/525104c3-ca01-40f7-91a5-6579544c2338" />
+Decode customer and product performances influenced by Key metrics such as Net Sales and Gross Margin Percentage ,make an performance matrix b/w NS and Np % for market, customer as values ,then explore the Break down for Needful P & L values of Sales View such as Net Sales , COGS , Gross Marigin.
+
+👉 Finance View
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150454" src="https://github.com/user-attachments/assets/47f3fec7-2c31-439a-bc36-70ede3bf7689" />
+Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales
+
+👉 Marketing View
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150546" src="https://github.com/user-attachments/assets/55e2b17b-4ce1-4c1f-85f9-b1f4e33bad24" />
+Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses
+
+👉 Supply Chain View
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150607" src="https://github.com/user-attachments/assets/f2cf24bd-41e4-4888-b955-a1b8134076ef" />
+Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
+
+👉 Execution View
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 150639" src="https://github.com/user-attachments/assets/11058299-c4f2-4f3c-ab15-1612534e2923" />
+Evaluating departmental performance at a glance by plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders to bridge gap between strategy and results by closely monitoring and managing the execution of initiatives.
+Interactive Dashoard Link
+## Conclusion :
+The dashboard has equipped AtliQ Hardware with the capability to assess sales trends across different departments and make decisions guided by data. Moreover, a notable/significant trend on consistent rise in Atliq market share, witnessing a substantial growth from its initial share of less than 0.5% to an impressive 5.9%. This encouraging trajectory highlights AtliqQ increasing presence and competitiveness in the market
