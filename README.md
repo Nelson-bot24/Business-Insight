@@ -7,3 +7,5 @@ Understanding what data is available will be more helpful while doing analysis. 
 Dimension table : It will have the static data like details of customer and products
 
 Fact table : It will have the data about the transactions
+
+❇️ gdb041
